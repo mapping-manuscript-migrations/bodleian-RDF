@@ -40,7 +40,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6857_prov1">
         <crm:P3_has_note xml:lang="en">William Laud, 1573-1645</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:dd8ba330-eaee-4625-91cb-8c0ce9ca7316">
+          <crm:E52_Time-Span rdf:about="urn:uuid:55339ebc-1c5a-465d-a0ce-63be05c3c85c">
             <crm:P82b_end_of_the_end xml:lang="en">1641-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1573-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -206,7 +206,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4327_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ae2698d1-4934-4f8f-a8f5-a761ea98861b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d9a0c003-1caf-42de-9bbe-5c9e8381e9b9">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -255,7 +255,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3259_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:d16732bb-cebc-44da-b117-4669dd432cb2">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c50e342c-437e-4037-ac26-3de1a23823e7">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -273,7 +273,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3259_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:acd6b664-7af0-4cf3-83fa-b8359cbe7d6e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d4e5426b-c0c9-44a6-a7cb-96ccc2823d2c">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -453,7 +453,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2059_prov2">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ba1427f6-51cb-4350-89d2-5c0636c4cbf4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:93a5edd7-986c-4990-b54a-4814912491a5">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -522,7 +522,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2059_prov3">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici, -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:014b8905-1fe7-419e-8249-d263357ea21d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:8c600944-dfa0-414f-b0cf-71c49ee7d3f4">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -621,7 +621,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3255_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b41c474e-efac-4371-a4a2-3988d2b41e4d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:216bcf51-aadf-4f88-acaa-7832399289f6">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -677,7 +677,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3255_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5ff69453-8d6a-4140-afed-598c423b0396">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a6d11d80-caee-47d6-9fa5-95234cdab0a8">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -915,7 +915,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3742_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5f21e23d-9766-4bc6-a030-3c11307ee078">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a8a63eec-d693-4bfd-8611-73a7875e5da9">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -945,7 +945,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3742_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9e3bf3df-7e88-46cf-946e-6e356273ce9f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0029e0c1-5b00-4614-a5ec-56cd8aab2e6b">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -1037,7 +1037,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8639/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:95ad86e7-7d3b-4d97-ad75-fccf9ab9b0d5">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:84d92bdd-c8e4-484d-a09a-8918d777e8db">
             <crm:P14.1_in_the_role_of>
               <crm:E55_Type rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art">
                 <rdfs:label xml:lang="en">art</rdfs:label>
@@ -2672,7 +2672,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3266_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7d6e00f8-b0a3-452e-91f9-23267bd5b786">
+          <crm:E52_Time-Span rdf:about="urn:uuid:93f38426-b132-494b-be10-d0cc1fc47b04">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -2699,7 +2699,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3266_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c7f52ce9-b618-41ca-a081-a3e5581e0b4f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c63006d2-af3f-4d60-9f01-155f80ee1178">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -2991,7 +2991,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3132_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ec20d1dc-c085-4bbd-a79b-d12940fed1aa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:4ea50264-a7e5-4336-a960-34b6a8950ace">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -3004,7 +3004,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3132_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:42424d24-17ab-4af4-b553-f1e435aaa71d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7e1bc2d5-763b-4f21-9673-57511e80584a">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -4080,7 +4080,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2689_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:d6bdbf2b-8e29-472e-a981-7f6a8096b18c">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0d2b938e-2483-480d-ba30-802bd47bb924">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -4093,7 +4093,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2689_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b1940345-c058-47b5-9d65-9f49eb99968f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:109e4cd8-8d73-459c-bd5f-bcc22e0c9677">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -4339,7 +4339,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2421_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ceaf9e35-ac98-4c5b-a027-34d8c6187442">
+          <crm:E52_Time-Span rdf:about="urn:uuid:10ddf771-787c-4b7b-bcdb-2efe08fc3bd6">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -4399,7 +4399,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2421_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:0cd15168-a827-4b3b-bef6-e0889cc07e40">
+          <crm:E52_Time-Span rdf:about="urn:uuid:69a9b0d0-f460-417e-a7c5-3534283cccc4">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -4476,7 +4476,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2686_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5d055cb8-8230-4484-b35c-670a8abd496f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:4f95ff62-7fd8-461f-b640-b78c5f306ba2">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -4490,7 +4490,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2686_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:d59770d5-2a39-410a-b334-724b902e8bfa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:eb7bfcdf-db76-43ec-897f-d0dd44109aff">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -4513,7 +4513,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3884_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:55043f9c-36a2-4e3c-8c20-29db8405cb6a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1b456cc7-dcf8-44c4-a8be-068457702c67">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -4596,7 +4596,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3884_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:35da8a15-a4b6-4697-9911-d5e83bcfbd5f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:da589d2b-939b-46f9-8d07-405c4f38432c">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -5588,7 +5588,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2077_prov7">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:8a2968ac-5db5-417f-b177-1fe1751e48da">
+          <crm:E52_Time-Span rdf:about="urn:uuid:11fb39dd-ff2b-4044-91fa-fd503a3ad0a9">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -5607,7 +5607,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2077_prov6">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805, acquired at an uncertain date.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4655ade6-5c31-45fd-817e-d4b0c7ea2d06">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bee10e32-cff9-48f6-8d68-6dd3e022d885">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -5745,7 +5745,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4472_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9a4d1dad-d671-480f-8bd3-e92e7f69023d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3f930095-1017-4a8e-a1ad-158684bff770">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -5999,7 +5999,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4470/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:4df43af7-e5ce-4c92-8ed5-7cf183e94cd5">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:91f8a92f-5b0f-41a7-a7d8-ce54bbb9f81f">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_57406287">
@@ -6463,7 +6463,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3498_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:83fbbfb8-8fd5-449a-90d4-f72f50909b57">
+          <crm:E52_Time-Span rdf:about="urn:uuid:da203d74-116d-4afe-88de-b043ec2a2829">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -6475,7 +6475,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3498_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:dfd1d043-70d2-4c6d-a8f0-e639519c21b0">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5eea0b0b-efaa-4649-8cd4-170c473d0809">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -6494,7 +6494,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3498/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:5cafdcec-e8bb-4594-b73c-f380d5652231">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:b4c20816-4eea-4852-91ce-807c5c8d4f5b">
             <crm:P14.1_in_the_role_of>
               <crm:E55_Type rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr">
                 <rdfs:label xml:lang="en">scr</rdfs:label>
@@ -6615,7 +6615,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3364_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9072d0f5-b9a5-4e54-bb28-dcdb849fe035">
+          <crm:E52_Time-Span rdf:about="urn:uuid:84111cec-ddaf-4262-8226-b54e18bcd1fa">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -6646,7 +6646,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3364_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:44b3eea5-1a65-4424-9c00-28d52b1ddd54">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d4fcd044-9cc8-4d7c-87ba-9fe63555f45f">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -6673,7 +6673,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4084/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:ed8a6e61-79bc-4b88-8bc8-21ac654a6cd3">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:28af5cb6-4df4-4c14-ac71-d8bbce1d8c8b">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_71445653">
@@ -6879,7 +6879,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2785_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7cad4404-4898-4bd8-b08c-992abe59128d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d1e2a62c-f456-46a2-93e4-140f0b3c0266">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -6913,7 +6913,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2785_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:440c6d12-1cbd-4a5c-be86-7738886ff239">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f60515b5-a021-45c9-b4ee-21070e4e7344">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -7046,7 +7046,7 @@
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8392/production">
         <crm:P7_took_place_at rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/place_1000070"/>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:642cf888-b174-46c0-a481-15411f7eac5f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ba8dd7ed-02bb-4d52-a3db-24fbe0071d87">
             <crm:P82b_end_of_the_end xml:lang="en">1477-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -7115,7 +7115,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3106/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:cdc43e3c-3421-4218-afd3-2ab11dcb32f8">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:b2646098-5f02-445e-9dfd-b076bebb622e">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_95822217">
@@ -7477,7 +7477,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3988/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:171a39b7-3cf0-4ccb-b0de-b13b35fcaa0a">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:67790dd9-9dc5-4538-b322-67d2f0856a61">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_40">
@@ -7544,7 +7544,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3855_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4eabd030-e984-4fb2-b5ec-d3711f58c86d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:08ff7a56-43f1-4084-b944-e8e9e56a72e4">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -7670,7 +7670,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3855_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7952cb8f-7fa7-4b3b-959d-2831935805e7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a1bba83a-d80e-4b1a-b90f-c825d3cdabf6">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -7863,7 +7863,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3240_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fe0e4fdc-ede2-4f04-81d1-ba2a64cc91f6">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5f758621-2b8b-4329-986d-0b8f0ca6d4c2">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -7875,7 +7875,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3240_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1653c2fd-d20c-44fd-b7c1-21dd9104318f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f1c6a97e-23e1-4b54-aef9-3bfbdf48c91e">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8082,7 +8082,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3729_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:15abdc89-9e49-44b5-8900-339a459ea19a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0a653d0a-f7ea-4eab-8e11-95aa782dbfe5">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8102,7 +8102,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3729_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:60b7eebd-eca9-4495-8441-17c8f68dbadc">
+          <crm:E52_Time-Span rdf:about="urn:uuid:32800e12-a320-4cd7-a65c-1e65d0704fcb">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -8137,7 +8137,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7420_prov3">
         <crm:P3_has_note xml:lang="en">William Laud, 1573-1645, 1638.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:207d0f25-16b3-44b0-8056-b2ff52d00fe6">
+          <crm:E52_Time-Span rdf:about="urn:uuid:63191516-060d-47bf-855d-6ef83bb5300c">
             <crm:P82b_end_of_the_end xml:lang="en">1638-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1638-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8184,7 +8184,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7420_prov2">
         <crm:P3_has_note xml:lang="en">Identifiable as R 20 in the Eberbach library catalogue of 1502.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:58efb5e1-37a4-4037-ae1f-1a172d33120c">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3b8bc03e-cd7c-4249-bc28-40e1948c266f">
             <crm:P82b_end_of_the_end xml:lang="en">1502-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1502-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8373,7 +8373,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2791_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:053f50ba-d73c-42ef-b5ac-37bb4ec0a8e5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3bf1197e-d1b4-40c7-86df-a41702015785">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8407,7 +8407,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2791_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a3d36a12-7419-41f3-ac33-c1c684c07bcf">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f5d20906-ae93-4c1c-aa98-b4349e7eae40">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -8489,7 +8489,7 @@
         <crm:P108i_was_produced_by>
           <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6978#MS_Laud_Misc_169-part1-production">
             <crm:P01i_is_domain_of>
-              <crm:PC14_carried_out_by rdf:about="urn:uuid:c01fe2c9-b3bb-41f7-adf8-53b4fa0d300b">
+              <crm:PC14_carried_out_by rdf:about="urn:uuid:1117cc22-9bce-4481-9ba1-8b13b3cff033">
                 <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
                 <crm:P02_has_range>
                   <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_1107">
@@ -8632,7 +8632,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6490/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:ac644c83-9eee-4bae-86e8-9f98036a9a17">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:efc1ec43-044c-43e2-81bd-261b848d542e">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_282801165">
@@ -8753,7 +8753,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4442_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5342d988-5a05-4750-9989-0b0524072448">
+          <crm:E52_Time-Span rdf:about="urn:uuid:662b1093-7e18-4c0b-8f08-79e0af7c557b">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8903,7 +8903,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4574_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1fe5eb14-713e-4f48-b354-d409c81636e5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d17aeb69-6b41-4ceb-a7e7-12627d9b44a0">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -8947,7 +8947,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4574/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:2013c4dd-a7c2-499e-a071-18308bfe6d86">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:586951c5-7036-4f9d-83ff-f4fdd8c1ff85">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_1524070">
@@ -9298,7 +9298,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4319_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:6ad3fde5-049c-46c1-bc7d-50f9b582afaa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:526550d0-cc98-44cd-80aa-daa01f2b3bf9">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -9412,7 +9412,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2660_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:8d0b2ceb-f9e7-47e4-b19d-b355df2c6840">
+          <crm:E52_Time-Span rdf:about="urn:uuid:be4f76b8-cc68-48c8-9ce2-216b10f9a9cb">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -9434,7 +9434,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2660_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:6910dc49-078e-4d00-a105-bf9336330396">
+          <crm:E52_Time-Span rdf:about="urn:uuid:054e63f8-cab3-4c83-8fd8-a7b2a3000113">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -10195,7 +10195,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3736_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:aaad906e-5d30-468d-93c0-440b6a56022c">
+          <crm:E52_Time-Span rdf:about="urn:uuid:33d145db-b217-4036-8bcc-af307702d034">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -10210,7 +10210,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3736_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7a4ee6a2-2c9d-4db3-8bf1-b1b6276fbc02">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7944ccda-f27f-483d-a232-d7e266b6e07e">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -10893,7 +10893,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2052_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fa729337-da59-4d44-875c-663ef911ca69">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7dba6c1b-ba45-4c25-9c61-77f7672001ac">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -10906,7 +10906,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2052_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:40b97d62-c040-4f6a-930b-41ddcfc436d3">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fb92e7c0-f599-4f05-8b22-9b3d4c126913">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -11368,7 +11368,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2450_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:899ca3a5-9dc4-4fc6-a567-af7bc46ea871">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d327419f-c088-44ee-b1f8-dde293996b79">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -11429,7 +11429,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2450_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:15c00262-c05f-4f24-b704-5dd5c2cd9675">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a365cdfd-4a51-499e-beb0-89809251ae85">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -11518,7 +11518,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_9001_prov7">
         <crm:P3_has_note xml:lang="en">Purchased from Sancroft's executors by Thomas Tanner (1674-1735).</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:aa9fb2f9-608d-4464-bfbc-219a18d008e2">
+          <crm:E52_Time-Span rdf:about="urn:uuid:50a94b11-b050-4208-9f0a-d1f5d05df0a6">
             <crm:P82b_end_of_the_end xml:lang="en">1735-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1693-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -11595,7 +11595,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_9001_prov6">
         <crm:P3_has_note xml:lang="en">W. Cant. [i.e. William Sancroft, 1617-93]. fol. 1.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:d6a44ad5-5af0-4d6d-ab1d-43fab81fbfdf">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a1789203-f8ee-4010-b527-dff95eccae71">
             <crm:P82b_end_of_the_end xml:lang="en">1693-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1617-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -11737,7 +11737,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7963/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:94b9a2fe-5854-49c9-80d1-e80d9a0ba535">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:18c60542-01e2-4f24-bfa2-2f761b812f06">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_65390607">
@@ -11785,7 +11785,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2586_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:42eced7a-7a6d-4e79-a799-f8dc0d9872c4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c41eca54-2d16-4c2e-b933-2ba311a76807">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -11859,7 +11859,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2586_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a6af3972-c9bf-4c0e-b0fd-d0ac7e09b766">
+          <crm:E52_Time-Span rdf:about="urn:uuid:680f508b-0e9e-4f8b-adf6-e58ab5be33d8">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -11875,7 +11875,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3784_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:095804bd-ebb0-4033-a335-3498dc29d257">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f30c3398-190f-47a8-b3ad-978bc0810987">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -11887,7 +11887,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3784_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2b243297-f6a8-4852-9fac-77cfb1cf5f2e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:71d2e1cc-635d-4455-b7b8-e7e2f9a5cf8a">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -12033,7 +12033,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3170_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:92a1185e-52bb-4020-9d56-c67561372c5b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7a8b6e18-41f7-4c5c-af37-953b8231017b">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -12060,7 +12060,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3170_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2c1e19fb-4ef0-44ea-9b41-178b0c4d70ba">
+          <crm:E52_Time-Span rdf:about="urn:uuid:b44910fb-eac3-4d05-aa01-8dfa12ca7b08">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -12245,7 +12245,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6772/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:d20a92c1-43dd-4c11-a744-3d0ca274fd59">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:5062d6e0-2b77-43d1-9444-e68102a15e1f">
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_404">
                 <rdfs:label>Georgius Melkhaym de Prawnaw (Braunau)</rdfs:label>
@@ -12395,7 +12395,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3527_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:03c45f4f-1fdd-43f6-b944-904c352e1b8b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5b65ba0d-7e8b-42bc-9872-a2f3e5c8b2d2">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -12449,7 +12449,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3527_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:aa4f70c1-8e15-4bdf-a923-7a284b06c2b5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f4aa2c81-3c25-4163-b2aa-b33ad5eaa23b">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -12702,7 +12702,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6155/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:d3c1ee5c-ff7a-48d1-b8bf-8f182c3bdac3">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:8ff79c14-ef1d-47f5-a3cf-54c6f0734b50">
             <crm:P14.1_in_the_role_of>
               <crm:E55_Type rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd">
                 <rdfs:label xml:lang="en">bnd</rdfs:label>
@@ -12790,7 +12790,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4245_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:dee55bbc-adcc-45ab-8d3b-4abbf0412f8a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ff15a73a-e5ca-49eb-8b44-eae9e5513893">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -13170,7 +13170,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10383/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:61708dcd-2216-4574-a419-4fe990007fb8">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:d68e08f0-b8b8-4d32-a49b-6b733df4eeca">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_4192"/>
           </crm:PC14_carried_out_by>
@@ -13255,7 +13255,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6024_prov3">
         <crm:P3_has_note xml:lang="en">Sir William Hamilton, 1788-1856</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a2c8e769-46e6-4c66-bc8d-e2dd9ec8deff">
+          <crm:E52_Time-Span rdf:about="urn:uuid:874c273d-6de2-41b6-b3a0-04182a072a0d">
             <crm:P82b_end_of_the_end xml:lang="en">1856-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1841-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -13447,7 +13447,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6024_prov2">
         <crm:P3_has_note xml:lang="en">Friedrich Gottlieb Julius von Bülow, 1760-?1831, 22b in the catalogue of part 3 of his sale, 10 Oct. 1836 (cf. fol. i recto)</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5a638125-a13a-4819-ac1c-8a3389e207ca">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d4b62757-4364-422c-97b9-3b292ad0c13d">
             <crm:P82b_end_of_the_end xml:lang="en">1831-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1760-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -13512,7 +13512,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10387_prov1">
         <crm:P3_has_note xml:lang="en">Made in England, at the College by 1372: UO48. 79.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c4825680-11db-4336-be03-d3ed50fa62aa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:94964839-8892-4519-9413-274c17f47884">
             <crm:P82b_end_of_the_end xml:lang="en">1372-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1372-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -13913,7 +13913,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2338_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bd0fcec9-2551-4eec-ab4f-5c77bb4e90ae">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1dd31e88-dff4-49f4-80e9-0ef7c07a5d94">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -13956,7 +13956,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2338_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:993d20fd-beca-4a72-8a06-b9cb49dd98a6">
+          <crm:E52_Time-Span rdf:about="urn:uuid:25e61852-fb95-4823-ad16-a0fff2edc201">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -14029,7 +14029,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3536_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:52000081-34d9-4fce-a52b-39650770f2a8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:437bf160-3364-4a24-bc29-fc73edf62970">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -14044,7 +14044,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3536_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:46a03c08-be19-4e65-ac34-ceeaaa3b2baf">
+          <crm:E52_Time-Span rdf:about="urn:uuid:279b13af-f9e3-41d2-8f8b-0cbd11a427f9">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -14141,7 +14141,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3532_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:13a75f8b-787f-4fe5-a7d0-09ab87433753">
+          <crm:E52_Time-Span rdf:about="urn:uuid:832e3e41-8ba6-4e3f-8e5d-52dae5b6a653">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -14155,7 +14155,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3532_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:71636ab8-e734-4851-97f5-882d0b3d8e65">
+          <crm:E52_Time-Span rdf:about="urn:uuid:91c170ca-97e9-4fe7-8f2f-401d5523498c">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -14197,7 +14197,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2466_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bbc84295-1e5d-49c5-8226-679b391fc207">
+          <crm:E52_Time-Span rdf:about="urn:uuid:46358e00-50d3-48f1-a18b-46ee1149c179">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -14223,7 +14223,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2466_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e86e426e-54f2-435b-be2e-0734000375b0">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2cf4e653-66eb-40d3-b51b-9f13d82a9f4d">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -14465,7 +14465,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6780/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:4d670271-dfc1-4116-978c-bbda68b5dc62">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:80768d32-a15e-45a9-a8aa-bfd59d4b8b01">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_632">
@@ -14689,7 +14689,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4606_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:76bdbb8b-146c-44a1-93f0-1fd646631442">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d34cb1c8-12f6-481e-bdbc-be536eb70015">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -14724,7 +14724,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4604/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:4904df3f-9a4a-4ff3-89c7-6e99193311f1">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:e0673c06-b6f1-4761-89cc-db3589291bb1">
             <crm:P14.1_in_the_role_of>
               <crm:E55_Type rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/pat">
                 <rdfs:label xml:lang="en">pat</rdfs:label>
@@ -14803,7 +14803,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4604_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fe82d891-7fb8-4a2e-9c01-a59e9f912c28">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d57ba620-17b2-4824-849d-1097162b65fd">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -14864,7 +14864,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6166/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:55f5d18f-99ea-410b-a63e-d592fa738348">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:11ac45f1-aa92-43b9-92de-54e9e9d09174">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd"/>
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P14.1_in_the_role_of>
@@ -15534,7 +15534,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3188_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b4651b91-6f23-45bd-84f1-26905f7ffac8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:576b86bd-7b77-452b-b492-c5d53ea4f4b0">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -15546,7 +15546,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3188_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bf530b07-cfbc-43d4-94bb-30414586dcf8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:893d124b-3053-433d-9130-30e414e7cff3">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -16040,7 +16040,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7813_prov1">
         <crm:P3_has_note xml:lang="en">James P. R. Lyell, 1871-1948</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fdfaf739-d1e9-4141-8e34-aba16f6cc697">
+          <crm:E52_Time-Span rdf:about="urn:uuid:103faff2-13cf-42c9-a2e7-065174906890">
             <crm:P82b_end_of_the_end xml:lang="en">1948-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1871-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -16113,7 +16113,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3890_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4015dc6c-c598-4bcc-b79d-1cd51eab6c7f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:393beaf6-4849-4497-8dec-1eee0a6955d9">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -16147,7 +16147,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3890_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:985af147-1169-4f11-b915-dd6c6dd22612">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c036f9e8-ec0d-4e3b-8724-d5837b3b194d">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -16517,7 +16517,7 @@
           <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1849_prov5">
             <crm:P3_has_note xml:lang="en">Exeter Cathedral (?) (see above; not in the 1506 Exeter inventory).</crm:P3_has_note>
             <crm:P4_has_time-span>
-              <crm:E52_Time-Span rdf:about="urn:uuid:ebdc66a7-98ad-45be-9c8b-42ca2cd2f3d5">
+              <crm:E52_Time-Span rdf:about="urn:uuid:d820544c-00b9-4d53-bdae-2a403201e15f">
                 <crm:P82a_begin_of_the_begin xml:lang="en">1455-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
             </crm:P4_has_time-span>
@@ -16554,7 +16554,7 @@
           <crm:E34_Inscription rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1849_prov4">
             <crm:P3_has_note xml:lang="en">Edmund Lacy, bishop of Exeter: Hunc librum dederunt Executores Edmundi Lacy Episcopi Exoniensis Ecclesie Cathedralis Exoniensis. Cathenandum in magna libraria ibidem (fol. 225v)</crm:P3_has_note>
             <crm:P67_refers_to>
-              <crm:E52_Time-Span rdf:about="urn:uuid:8fb9d700-514b-428d-a9c1-8692d932dccc">
+              <crm:E52_Time-Span rdf:about="urn:uuid:81c78b3d-2548-48f1-9e10-6b6221d850c2">
                 <crm:P82b_end_of_the_end xml:lang="en">1455-12-31T23:59:59</crm:P82b_end_of_the_end>
                 <crm:P82a_begin_of_the_begin xml:lang="en">1400-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
@@ -16652,7 +16652,7 @@
           <crm:E34_Inscription rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1849_prov2">
             <crm:P3_has_note xml:lang="en">Edmund Lacy, bishop of Exeter, -1455: Hunc librum dederunt Executores Edmundi Lacy Episcopi Exoniensis Ecclesie Cathedralis Exoniensis. Cathenandum in magna libraria ibidem (fol. iv verso)</crm:P3_has_note>
             <crm:P67_refers_to>
-              <crm:E52_Time-Span rdf:about="urn:uuid:5311d9dd-eb64-4d2b-b862-2fb898e079fd">
+              <crm:E52_Time-Span rdf:about="urn:uuid:f21b8317-09cf-4659-8299-2bb8d863cd78">
                 <crm:P82b_end_of_the_end xml:lang="en">1455-12-31T23:59:59</crm:P82b_end_of_the_end>
                 <crm:P82a_begin_of_the_begin xml:lang="en">1400-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
@@ -16665,7 +16665,7 @@
           <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1849_prov3">
             <crm:P3_has_note xml:lang="en">Exeter Cathedral (?) (see above; not in the 1506 Exeter inventory, but marks from a chain-staple (?) on fols. iii and iv.</crm:P3_has_note>
             <crm:P4_has_time-span>
-              <crm:E52_Time-Span rdf:about="urn:uuid:bb062761-ef43-447d-97de-56f4325315c4">
+              <crm:E52_Time-Span rdf:about="urn:uuid:1fa4bbb1-d97c-4d47-aae0-9b47f0d1d3cd">
                 <crm:P82a_begin_of_the_begin xml:lang="en">1455-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
             </crm:P4_has_time-span>
@@ -17031,9 +17031,6 @@
       </frbr:F13_Identifier>
     </crm:P48_has_preferred_identifier>
   </frbr:F4_Manifestation_Singleton>
-  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:ab430e87-1c1e-4f8d-914e-b30128983995">
-    <frbr:R3i_realises rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/work_1161"/>
-  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_876">
     <crm:P30i_custody_transferred_through>
       <crm:E10_Transfer_of_Custody rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_876/transfer-of-custody">
@@ -17117,7 +17114,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_876_prov3">
         <crm:P3_has_note xml:lang="en">Given by him to Thomas Barlow (1607-1691) in 1659: 'Tho: Barlow 1659, ex dono reuerendi viri domini Guil: Durham rectoris ecclesiae de Tredenton in com. Wigorniae'.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:6b75b978-d20b-4224-bc3a-dd6e3ba2173d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d617cbde-5642-46a8-bd96-0991e9b46f33">
             <crm:P82b_end_of_the_end xml:lang="en">1691-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1659-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -17193,7 +17190,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_876_prov2">
         <crm:P3_has_note xml:lang="en">William Durham (1610/11-1684), rector of Tredington, Worcestershire.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e90c83fe-026e-4ff1-a4f8-391b3e202f2a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:25db4f60-4c2a-44ea-ac0f-4357e9961fec">
             <crm:P82b_end_of_the_end xml:lang="en">1659-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1610-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -17539,7 +17536,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2307_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b7c19e4a-bdc6-4a06-ae00-e4435d3b37aa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ac3a932f-b42b-43fb-894d-4fb7dfa31c7e">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -17552,7 +17549,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2307_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:67d3ce3c-befd-4411-a298-27415d5d6ed5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2937c518-cd23-4236-b6d4-47b08d333161">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -17748,7 +17745,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3769_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7fc4053f-4d2a-4f5c-ba9c-605134c2d75e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:b0ed3dbc-5549-49a7-acb2-76094e89e9af">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -17761,7 +17758,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3769_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:babbcc03-73bc-49e5-89dd-f8d60e038f11">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fb2518ae-57bb-449e-9f87-895352af1c97">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -17962,7 +17959,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4221_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:0408f41b-6490-4388-9af4-2563b74d894c">
+          <crm:E52_Time-Span rdf:about="urn:uuid:9b3e3830-1db1-4179-8767-14ee6da54cfe">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -18024,7 +18021,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4487_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:824b5704-5b55-4c28-89b0-534bf9bf23e4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5c8ea92d-9969-4120-b793-2a34e9bb2063">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -18433,7 +18430,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3287_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9e5b9fa5-9322-4151-9157-6ecc3641ede7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:27478a15-1755-480c-83bb-889b81b5f41b">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -18459,7 +18456,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3287_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:99c1b924-a00a-4573-9de2-b88a89d9325b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e1444bf8-0e3f-407e-b443-e390cf890341">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -19104,7 +19101,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3283_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5ecccfdb-cc87-498e-954d-5fb96a48568d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:71d36fcc-27ee-4070-bf1c-939ef7699ee5">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -19138,7 +19135,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3283_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a3a1a652-35c3-4725-acc5-82c74ab62ce2">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fecd4184-50b4-4947-8b74-7423279e6697">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -19517,7 +19514,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4228_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7203ebc7-dca0-4fb9-8755-d15e104247ba">
+          <crm:E52_Time-Span rdf:about="urn:uuid:74e74f96-40fc-4548-b855-6ec9b409950e">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -19805,7 +19802,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2315_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:87398738-3a88-407a-88c3-bf3cb041a513">
+          <crm:E52_Time-Span rdf:about="urn:uuid:6ea2f93c-7446-4dc6-92c6-80814347870a">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -19832,7 +19829,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2315_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:6dbf3c93-0cf4-4bb0-b5d3-a9c32d5d2788">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1120ba86-2afe-4af0-81b8-e7d3c70e7957">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -19968,7 +19965,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7820_prov1">
         <crm:P3_has_note xml:lang="en">James P. R. Lyell, 1871-1948</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fcb5d1b3-e781-452c-9228-f4985ec8eabc">
+          <crm:E52_Time-Span rdf:about="urn:uuid:244d58e0-2775-47fe-ad02-7621b9653e48">
             <crm:P82b_end_of_the_end xml:lang="en">1948-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1871-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -20141,7 +20138,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3642_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a680c459-8175-4be0-a674-650509db0c7d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:adc8cb19-f1a2-45ef-9e6f-4b0d1873ae59">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -20180,7 +20177,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3642_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b65eb5d4-ea76-4f75-9bba-6e86154a1b1f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e823fb63-8284-4dac-8b68-53443c998efd">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -20468,7 +20465,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2441_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:aa999d61-c4fe-41ce-80e8-1929d3f95b6b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:8455a220-8aa4-406b-a9bc-4e45418d6fca">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -20480,7 +20477,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2441_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:8b8da050-93e8-4c53-8e41-9901a923f650">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3f490f15-d8b5-4790-be3a-9195f16adbaf">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -20601,7 +20598,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2096_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e5000495-dd0d-456c-be5e-8e7964c2022a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2d4eb5ae-f62c-4f60-aac9-67e75ce4bde8">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -20645,7 +20642,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2096_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:015d82a7-7988-4bd5-a141-2ae285f811ad">
+          <crm:E52_Time-Span rdf:about="urn:uuid:32132e3b-770f-4714-93ac-f4179b401d8c">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -21300,7 +21297,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6894_prov1">
         <crm:P3_has_note xml:lang="en">William Laud, 1573-1645</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a6afa894-2444-41f2-a417-9da51bf01675">
+          <crm:E52_Time-Span rdf:about="urn:uuid:19066ecd-4d2c-4eba-9bb2-357d77cd3e1e">
             <crm:P82b_end_of_the_end xml:lang="en">1641-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1573-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -21339,7 +21336,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3649_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:3666c1ac-c961-42eb-9148-6ad10997959d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c877ad37-5d39-4d03-804f-3935115956c7">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -21352,7 +21349,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3649_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:71957384-e69f-48a8-8e6e-9cfe6003b23e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:13cf8f74-3396-4c05-a311-c56da2c5583e">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -21526,7 +21523,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6896_prov1">
         <crm:P3_has_note xml:lang="en">William Laud, 1573-1645</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:946c4342-546a-4d7a-a833-ebea1aedde19">
+          <crm:E52_Time-Span rdf:about="urn:uuid:04f7e2c0-7eb3-4187-846c-2680746ab7d0">
             <crm:P82b_end_of_the_end xml:lang="en">1641-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1573-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -21927,7 +21924,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1998/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:535a829e-e3f1-4f77-bd59-fa6b3ec235a6">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:39e89710-7d2c-452f-9d75-a79e8780698e">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_170883649">
@@ -22529,7 +22526,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6149/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:a4254fda-039c-46ea-9142-6853c71692e1">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:bad67413-74e5-42bd-82b3-1226fec06ae7">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd"/>
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_707"/>
@@ -22575,7 +22572,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6194/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:e0e5af2b-26cd-4e31-99aa-c59326f540d6">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:a2d214bd-00a4-4b94-9dd5-e2029c5e9e80">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd"/>
             <crm:P02_has_range rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_707"/>
             <crm:P02_has_range rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_106872042"/>
@@ -22693,7 +22690,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2366_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b01ff39f-fdbb-4204-86a0-c4366c8638c4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:560694b8-35e4-475e-a6ec-b35c27f372e4">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -22734,7 +22731,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2366_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:f2215f06-ff9b-4331-8ac9-46f1704430b7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:43334a3a-bd07-4216-b1a6-2a9385db1a0a">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -22790,7 +22787,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2233_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a9570085-401f-432f-b311-63d1e5b35008">
+          <crm:E52_Time-Span rdf:about="urn:uuid:cb54b2cb-2f70-46e3-9bce-9cec796e311d">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -22811,7 +22808,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2233_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:39847c23-1d4f-4cc0-9947-294905536153">
+          <crm:E52_Time-Span rdf:about="urn:uuid:34e9fbf5-25be-4808-9e8b-7902e93c32a0">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -22851,7 +22848,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6196/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:14434504-5169-4e4d-a6a6-ab3cfc42bdf3">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:9b4875f6-d3c0-4436-ae64-6997f6cfd1ef">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd"/>
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_707"/>
@@ -22974,7 +22971,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3560_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7f318f17-2866-4ff0-baa9-5ac163093277">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bb502460-d874-42c0-bba2-333a3e7680ee">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -23021,7 +23018,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3560_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e5c54bcb-5ddc-4f77-872f-56d888115966">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2a7a688e-456d-47ac-ba97-1b280ebf9cd8">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -23162,7 +23159,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10209/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:0a316398-e815-4eeb-a5bb-696a48184e4d">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:b6631657-b1b2-444c-a0f6-5250e513013d">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_4019">
@@ -23326,7 +23323,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4637_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bada2c0a-f1b5-41dd-bbee-29114470ade1">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bd67fb7e-44bf-41ec-92b0-b5f8ce4701ca">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -23506,7 +23503,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4633_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:21654391-337d-4c8c-9301-a0a7a4b36c56">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1015e719-20c1-4ca0-89b7-c62fcf6605f1">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -23901,7 +23898,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7883/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:1963f129-b9e7-4587-bd37-84a204fb5c4e">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:d79bd918-bfdb-4a38-abf3-02402c11bf10">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_605">
@@ -24035,7 +24032,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10349/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:f58ad0ee-c449-4736-bc1e-b3b588802424">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:b629afff-e08e-4c29-8503-ccce8295ed75">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_4149">
@@ -24107,7 +24104,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10349_prov1">
         <crm:P3_has_note xml:lang="en">On f. iiivis a formal inscription, partly erased, and table of contents: ‘Hunc librum prouidit dompnus Iohannes h de Wed solum et suis beneuolis sacre theologie baculaur’ anno Domini m. cccc. xxv quem qui alienauerit uel eius titulum hic aut alibi deleuerit anathema sit, predicti Iohannis fortuna prosperitatis non uariata seu ipso non affirmante.’ On f. 89 the decoration includes ornamental words at the head, cropped by the binder, and at the foot, erased. Those at the top seem to make ‘IHOHANNES’, at the foot ‘DICTUS WETH’’.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:79f5331d-0ecf-40e4-9510-d40736764ec8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:11ee8a06-c6df-413b-bef0-28dacd3bd7ed">
             <crm:P82b_end_of_the_end xml:lang="en">1425-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1425-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -24149,7 +24146,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10349_prov2">
         <crm:P3_has_note xml:lang="en">This may be the book given to the College in 1449 by John Whethamstede (BRUO 2032-4), abbot of St Albans 1420-40, 1450-64 (Appendix B, no. 97), and the copy of ‘Antonius in metaphisica’ bound and chained in 1454-5 (ibid., no. 106). It was certainly there by 1556 (UO65. 264). The destination of the partly erased ex dono will then have been St Albans Abbey itself. In 1563 the relevant part of Digby 77 was in the possession of Thomas Allen (who so inscribed it).</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e11374c6-8b79-4702-bc8a-5ba2c4ef0cb8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f929f406-d957-496b-bb2f-574405735526">
             <crm:P82b_end_of_the_end xml:lang="en">1449-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1449-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -24246,7 +24243,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4639_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:16aaa08c-472f-4914-9f2c-729586e675fe">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c134ffa6-4264-4ce9-9675-d0775e479f08">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -24517,7 +24514,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2370_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:3422de9c-d655-484c-b05a-2715108b091f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fc80c692-8f7d-41a2-84d0-add0ef58a5e5">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -24530,7 +24527,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2370_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:6bd144be-156a-478b-8266-2586e15f8f27">
+          <crm:E52_Time-Span rdf:about="urn:uuid:38baf02b-9de7-4245-a357-b84b57a0e265">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -24547,6 +24544,9 @@
     </crm:P48_has_preferred_identifier>
     <crm:P46i_forms_part_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/collections/MSS.%20Canon.%20Class.%20Lat.%20%28Canonici%20Latin%20Classical%29"/>
   </crm:E24_Physical_Man-Made_Thing>
+  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:0fee3701-fbdf-4321-856b-438e18315ec9">
+    <frbr:R3i_realises rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/work_1161"/>
+  </frbr:F22_Self-Contained_Expression>
   <frbr:F4_Manifestation_Singleton rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10341">
     <crm:P43_has_dimension>
       <crm:E54_Dimension rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10341/dimension/8">
@@ -25173,7 +25173,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2376/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:fa938a50-715d-4ae2-bec9-ce9f33fdb59c">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:ffaf818b-24f8-43af-a81e-1fda906c1e7a">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/pat"/>
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
@@ -25219,7 +25219,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2376_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:baf02b54-8dd2-402d-a2ed-36ff9d7fe611">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d47d31dc-4de9-4106-8ce8-a2b3de585f9a">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -25238,7 +25238,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2376_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4fd0f000-3b23-400c-8f0a-90516dd40c01">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1e8ce424-3548-4790-8d01-a2b915cead63">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -25335,7 +25335,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4770_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e795efe5-13bf-4f4f-976d-5b3dba30c38e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:8eb1ae01-650b-4c6d-b098-02ee22ee7c08">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -25625,7 +25625,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1177/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:cbd2a9ed-9378-4926-a8b6-1b1950116f5a">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:ceb664bc-c971-4fd3-9b23-438d729c2dc6">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_3097">
@@ -25793,7 +25793,7 @@
           <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6558_prov9">
             <crm:P3_has_note xml:lang="en">14th cent. note ‘de Camberone’ (the Cistercian abbey of Cambron, Belgium)</crm:P3_has_note>
             <crm:P4_has_time-span>
-              <crm:E52_Time-Span rdf:about="urn:uuid:4aeca639-d83e-4784-8142-22a85b58f6ef">
+              <crm:E52_Time-Span rdf:about="urn:uuid:ecc38d6e-5874-493f-8a37-0951593e542d">
                 <crm:P82b_end_of_the_end xml:lang="en">1400-12-31T23:59:59</crm:P82b_end_of_the_end>
                 <crm:P82a_begin_of_the_begin xml:lang="en">1300-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
@@ -28674,7 +28674,7 @@
         <crm:P108i_was_produced_by>
           <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6559#MS_Lat_misc_b_12-part5-production">
             <crm:P4_has_time-span>
-              <crm:E52_Time-Span rdf:about="urn:uuid:87eb6450-bf9c-4d02-9a90-53e52ff1f397">
+              <crm:E52_Time-Span rdf:about="urn:uuid:caecda61-ca66-4f25-8375-d522d888f5d8">
                 <crm:P82b_end_of_the_end xml:lang="en">1411-12-31T23:59:59</crm:P82b_end_of_the_end>
               </crm:E52_Time-Span>
             </crm:P4_has_time-span>
@@ -30136,7 +30136,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3447_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:26844fdd-9375-4088-8933-27d85b421296">
+          <crm:E52_Time-Span rdf:about="urn:uuid:eb2b5d7a-1b6a-41c9-8021-d9f2e496fff2">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -30149,7 +30149,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3447_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2fc0ddcf-ff68-471f-8586-81f9150b40fc">
+          <crm:E52_Time-Span rdf:about="urn:uuid:353c1c74-ad8e-4860-bac1-d84de49a5523">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30178,7 +30178,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2247_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:0900b7d2-e909-4b93-bf2a-6a0d03261a74">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bebc5775-41ef-4bfc-8fd4-035e79307c17">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -30195,7 +30195,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2247/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:44403fdb-f200-41e0-b684-d3c7bc0e9ff3">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:93d3fe54-6573-463b-9f4f-6b5d41266b6b">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_83">
@@ -30241,7 +30241,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2247_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ddcdff9a-d90d-4c2e-9933-7692be9ee9f5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e5cad955-6b3c-49d7-b7e2-203a5029b083">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30584,7 +30584,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7760_prov1">
         <crm:P3_has_note xml:lang="en">James P. R. Lyell, 1871-1948</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:95a7b47c-0d14-479c-9e00-67b4faa78003">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3f22bfb6-b5a7-4d08-8319-912fc9ef221b">
             <crm:P82b_end_of_the_end xml:lang="en">1948-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1871-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30806,7 +30806,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov7">
         <crm:P3_has_note xml:lang="en">Ames sale, May 1760, lot 1350, sold to Mark Cephas Tutet for £10 10s.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:112a45a0-b81b-405d-b865-07b4b645746a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f60c9023-e27f-4b14-a69d-4e83fc18597e">
             <crm:P82b_end_of_the_end xml:lang="en">1760-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1760-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30824,7 +30824,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov6">
         <crm:P3_has_note xml:lang="en">Clavell sale, March 1742, lot 27, sold for £27 17s. 6d. to Joseph Ames.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4a02e929-c9b6-4a84-916f-188e0f016e7a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2cb2bd6a-c367-40f0-9cb4-096be6ba9a3e">
             <crm:P82b_end_of_the_end xml:lang="en">1742-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1742-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30882,7 +30882,7 @@
       <crm:E34_Inscription rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov2">
         <crm:P3_has_note xml:lang="en">'Thys ys m. george mason ys bokke', early 16th cent., fol. 4, probably George Mason (d. by Oct. 1562), dean of Crediton, canon and prebendary of Exeter (etc.).</crm:P3_has_note>
         <crm:P67_refers_to>
-          <crm:E52_Time-Span rdf:about="urn:uuid:557b4ebe-c862-4c04-bb24-c5d5b48dcabd">
+          <crm:E52_Time-Span rdf:about="urn:uuid:b5d6a08c-5a02-4d30-bf76-50ecaffa1a85">
             <crm:P82b_end_of_the_end xml:lang="en">1562-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P67_refers_to>
@@ -30899,7 +30899,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov5">
         <crm:P3_has_note xml:lang="en">Walter Clavell, F.R.S., of the Inner Temple.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:813c4c72-ce9b-4e6f-b45f-6e37057bcfa6">
+          <crm:E52_Time-Span rdf:about="urn:uuid:09c8d600-fb1d-433a-b2ab-d0aa82922c5e">
             <crm:P82b_end_of_the_end xml:lang="en">1742-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -30916,7 +30916,7 @@
       <crm:E34_Inscription rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov3">
         <crm:P3_has_note xml:lang="en">'Sum Johannis Blaxton liber', mid 16th cent., fol. 4, probably John Blaxon, fl. 1532-60, canon and prebendary of Exeter</crm:P3_has_note>
         <crm:P67_refers_to>
-          <crm:E52_Time-Span rdf:about="urn:uuid:edd886ac-b31f-46ca-87f7-32f53284b7cd">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a5c12bbb-7d60-4c13-b5fd-93b8d3555f2e">
             <crm:P82b_end_of_the_end xml:lang="en">1560-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1540-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30934,7 +30934,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov4">
         <crm:P3_has_note xml:lang="en">Owned by Robert Burscough, rector of Totnes, Devon, in the late seventeenth century (Bernard, Catalogi librorum manuscriptorum Angliae et Hiberniae (1697), no. 7626).</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a39aa52b-bb0d-4262-b442-fb26f2eb2faa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:64508791-881f-4af8-b0b4-5ee8fa4e0daf">
             <crm:P82b_end_of_the_end xml:lang="en">1700-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1690-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -30968,7 +30968,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov9">
         <crm:P3_has_note xml:lang="en">Tyssen sale, Dec. 1801, sold to Douce for £2 9s.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a378665a-9a01-44f7-9de1-0fd7e9c69ac8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f5b06cc4-bae8-43ed-9f3a-b19c8674a768">
             <crm:P82b_end_of_the_end xml:lang="en">1801-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1801-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31005,7 +31005,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov8">
         <crm:P3_has_note xml:lang="en">Tutet sale, Feb. 1786, lot 511, sold to Samuel Tyssen for £8.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b9eae04a-4963-4b9a-b86a-415e85728fca">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0d8fe5b5-c98f-4f07-859b-cb7d19bed1cb">
             <crm:P82b_end_of_the_end xml:lang="en">1786-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1786-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31032,7 +31032,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4518_prov1">
         <crm:P3_has_note xml:lang="en">Perhaps at Glastonbury Abbey in the 10th century when annotated by St Dunstan.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b65a6a84-1385-4072-8802-c1247b6fc382">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c494d944-90c4-4b54-9466-2ffe1b1357f4">
             <crm:P82b_end_of_the_end xml:lang="en">1000-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">0900-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31093,7 +31093,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3808_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1409be9c-7b67-4b7f-82c8-4ef3c9ea0161">
+          <crm:E52_Time-Span rdf:about="urn:uuid:04eea2bd-3b40-4e56-a644-4630e9ea2f0d">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31106,7 +31106,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3808_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:abe10bd5-d81c-4914-b0e0-6255e1c4153d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ddf52516-13b4-4623-afde-6a0eba1de0a6">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -31432,7 +31432,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2473_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1fea86bf-f2c0-4dd6-92d6-48807b3e41dc">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0bf3a694-06bb-44b4-becf-c3b05f2f9a75">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -31460,7 +31460,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2473_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:31634019-a950-4356-b939-2bb9adae14a1">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ff1b81a4-2e6c-4eb1-afda-4557a0c4dccf">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31709,20 +31709,13 @@
     </frbr:R42_is_representative_manifestation_singleton_for>
     <crm:P45_consists_of rdf:resource="http://vocab.getty.edu/aat/300011851"/>
   </frbr:F4_Manifestation_Singleton>
-  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:30273e1a-9b17-4d30-9b2f-58b74b8a6b05">
-    <frbr:R3i_realises>
-      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_7138">
-        <rdfs:label>Sermo angelicus</rdfs:label>
-      </frbr:F1_Work>
-    </frbr:R3i_realises>
-  </frbr:F22_Self-Contained_Expression>
   <frbr:F4_Manifestation_Singleton rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2348">
     <crm:P46i_forms_part_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/collections/MSS.%20Canon.%20Class.%20Lat.%20%28Canonici%20Latin%20Classical%29"/>
     <crm:P12i_was_present_at>
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2348_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:02b69c61-f094-4a68-89e5-c3726aa27a04">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bce9429c-84af-49b9-83d8-f344bb2458c0">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -31747,7 +31740,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2348_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2749d4ae-53f8-405e-be31-8854ae464351">
+          <crm:E52_Time-Span rdf:about="urn:uuid:38106ce7-9ea5-470e-a35e-28d2004945b2">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -31846,6 +31839,13 @@
       </frbr:F13_Identifier>
     </crm:P48_has_preferred_identifier>
   </frbr:F4_Manifestation_Singleton>
+  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:511a577e-26d2-4827-850d-e3ccf42d8bb1">
+    <frbr:R3i_realises>
+      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_11934">
+        <rdfs:label>Fragments of manuscripts from Selden printed books.</rdfs:label>
+      </frbr:F1_Work>
+    </frbr:R3i_realises>
+  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4744">
     <crm:P52_has_current_owner rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/institutions/University%20of%20Oxford"/>
     <crm:P30i_custody_transferred_through>
@@ -31882,7 +31882,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4744_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e3c96476-0657-4cf7-9869-671b819e9e3e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:87b8b62c-9ca2-4d2f-ae79-37bbb476720f">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -32174,7 +32174,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_658/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:f198256e-e717-4d0d-949c-2608b21cdfcf">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:d0b82b3d-8590-4341-adf7-279881f37b0e">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_96580724">
@@ -32503,7 +32503,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2705_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:88934888-7cc7-4059-a32d-f028427d93e3">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d4a47474-83c0-440e-b08e-ebd978ae81a8">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -32516,7 +32516,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2705_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:f4d17215-0962-4ed4-8aee-12346a98ead5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7aa1a366-b0f8-4a24-8025-c991559a2206">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -32636,7 +32636,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2700_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:96e95f35-41f3-4be9-9655-a8eb8f7bc8c8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:28ab38ff-5ab8-4ed1-8b58-8beb27d56709">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -32686,7 +32686,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2700_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9dae94d3-e530-428e-a745-2a2b0973a4f9">
+          <crm:E52_Time-Span rdf:about="urn:uuid:8790ffaf-091d-44a4-bbb6-3798761e9102">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -32972,7 +32972,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1156/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:0d4e5534-bcb1-49c6-9038-5b77df7d0009">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:743920cc-c36a-468f-9033-a3208b4b7b4e">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_2584">
@@ -33568,7 +33568,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4620_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:33802751-3cd5-4483-bbe9-4053b9f50eed">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1e8afccc-9558-415c-82ec-090ed1548b61">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -33590,7 +33590,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4620/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:acb28253-8878-40d1-bf77-8eef33d7b2ae">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:5d4225ee-2fd7-47f5-9b6d-9cea4eaa32cd">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_26856190">
@@ -33825,7 +33825,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2356_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:89b78f1f-6d11-48a1-b2f5-7b9d2ef54c46">
+          <crm:E52_Time-Span rdf:about="urn:uuid:eacb82a2-5c0d-4ae7-bec8-0d6f49be8d48">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -33844,7 +33844,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2356/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:2a2555c0-c5a4-4fcd-b8a4-ae68d89361d6">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:640d8d1e-530c-47be-8c7c-ff9e1dd7b197">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_932">
@@ -33874,7 +33874,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2356_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a4e38593-25e4-49d5-b3dd-9a3cb9cb68d1">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f5644fd3-f4ec-46b0-abdc-7c2947fb60a0">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -35539,7 +35539,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4278_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:cfc34136-345e-4507-b6e7-f30eeb406a46">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a680d46c-0ea1-44b5-96c0-15f67751ebef">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -35725,7 +35725,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_291/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:2cf45c6f-616d-4671-ae8d-bf599f1d2d91">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:91145024-f1f3-4b36-81a3-d0bdb2b47481">
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_412">
                 <rdfs:label>Germanus Swerd de Wakesend</rdfs:label>
@@ -35859,7 +35859,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3479_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:27015887-68cf-400a-9dbc-552c000fca30">
+          <crm:E52_Time-Span rdf:about="urn:uuid:9d063b33-d681-4d69-a52b-0665bf1226ab">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -35872,7 +35872,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3479_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e6a5a776-9142-4228-b9e0-46cba23111b4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ae13a6de-7afc-4c65-984e-f916e2e09097">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -35907,7 +35907,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2016/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:753a5266-bffe-418c-a64d-e77139c94e35">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:09662c8e-0393-4de5-96ee-ff62323a5e75">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_726">
@@ -36380,7 +36380,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4543_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9fe7902a-84b2-4c83-b79b-cd340f155d68">
+          <crm:E52_Time-Span rdf:about="urn:uuid:9e1e2ffb-02dc-4e06-adc5-75dccd5b4a75">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -36738,7 +36738,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6947_prov3">
         <crm:P3_has_note xml:lang="en">William Laud, 1573-1645, 1638.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:962f4342-c619-4f42-bcdc-89957eff571a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:880dfa97-28c3-4a35-89f5-161016d36faa">
             <crm:P82b_end_of_the_end xml:lang="en">1638-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1638-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -36808,7 +36808,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6947_prov2">
         <crm:P3_has_note xml:lang="en">MS. Laud Misc. 137 with MS. Laud Misc. 136 fols. 1r-73v identifiable as G 12 in the Eberbach library catalogue of 1502.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4c055c1f-8b39-43c4-9346-47b82a5d139d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c8b3bcdc-4ec0-4dbf-bb97-5a5c28f00e83">
             <crm:P82b_end_of_the_end xml:lang="en">1502-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1502-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -36825,7 +36825,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6947/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:6fa3171e-7e95-4001-ba14-e13e8f0a543e">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:d1fb9da9-ef98-4565-ac13-44333dadc944">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_3114">
@@ -36868,6 +36868,13 @@
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
   </crm:E24_Physical_Man-Made_Thing>
+  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:18b66ed7-9ae3-4770-9730-ca82ef5e8a01">
+    <frbr:R3i_realises>
+      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_7138">
+        <rdfs:label>Sermo angelicus</rdfs:label>
+      </frbr:F1_Work>
+    </frbr:R3i_realises>
+  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5618">
     <frbr:R42_is_representative_manifestation_singleton_for>
       <frbr:F22_Self-Contained_Expression rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5618%23MS_Gr_class_e_141_P-item1/expression">
@@ -36910,13 +36917,6 @@
     <crm:P52_has_current_owner rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/institutions/University%20of%20Oxford"/>
     <crm:P46i_forms_part_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/collections/MSS.%20Gr.%20class.%20%28Greek%20classical%29"/>
   </crm:E24_Physical_Man-Made_Thing>
-  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:3d041022-c811-4cb8-8441-235ba935db23">
-    <frbr:R3i_realises>
-      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_13572">
-        <rdfs:label>Office of St Bridget</rdfs:label>
-      </frbr:F1_Work>
-    </frbr:R3i_realises>
-  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2761">
     <crm:P48_has_preferred_identifier>
       <frbr:F13_Identifier rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2761/classmark">
@@ -36941,7 +36941,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2761_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:97d70fdb-bbd7-45ef-bf61-747dd2dca093">
+          <crm:E52_Time-Span rdf:about="urn:uuid:aa914888-431e-4c82-8efd-d9785f487623">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -36987,7 +36987,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2761_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:f19a0285-ee2a-478c-b26e-603507497da6">
+          <crm:E52_Time-Span rdf:about="urn:uuid:85128316-4867-4c87-a184-d344abbd7090">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -37149,7 +37149,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10424_prov3">
         <crm:P3_has_note xml:lang="en">Alienated at an uncertain date after that, and repurchased by the College in 1878. Inside the front board is the College bookplate with ‘E. 1. 6’ and ‘CCLVIB’ in red, the first canc. and replaced with pencilled ‘P. 1. 9’.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4b0d78ea-ff66-4fa8-ac23-ff987a5975d9">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d08ca990-eb0f-4deb-8ff5-cc248c5a3476">
             <crm:P82b_end_of_the_end xml:lang="en">1878-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1878-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -37346,7 +37346,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8995_prov1">
         <crm:P3_has_note xml:lang="en">Thomas Tanner, 1674-1735</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:113e70b1-037b-47a5-994b-1b85cb13bfd3">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d993c455-7e45-40ba-9f61-fd1b0e8d0083">
             <crm:P82b_end_of_the_end xml:lang="en">1735-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1674-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -38371,7 +38371,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2504_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a27628f3-69c9-488a-8a1b-94dca9ce735d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:770f8f5b-461a-479d-99d6-4abd2f1b14ab">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -38386,7 +38386,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2504_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:4198f90d-be3d-4187-acae-9a53a3f141a3">
+          <crm:E52_Time-Span rdf:about="urn:uuid:70e6ee7c-0c10-412a-bf16-8e83c61fa50f">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -38468,7 +38468,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2635_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:baba8513-f386-4697-8765-a49e15116894">
+          <crm:E52_Time-Span rdf:about="urn:uuid:d90bdb2d-e4f0-4edf-a237-6346c2f56d24">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -38480,7 +38480,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2635_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e9a3585e-08dc-4408-b97f-54502f14ecfa">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fc3b8ecf-c96b-410b-9562-a135383e5ec0">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -38600,7 +38600,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8998_prov1">
         <crm:P3_has_note xml:lang="en">Thomas Tanner, 1674-1735</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bb337e2f-edcf-48bc-a955-3b88d7a72f56">
+          <crm:E52_Time-Span rdf:about="urn:uuid:2a743669-a010-41fa-82e2-fe8e9b132a88">
             <crm:P82b_end_of_the_end xml:lang="en">1735-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1674-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -38738,7 +38738,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10301_prov1">
         <crm:P3_has_note xml:lang="en">On f. iiv ‘Liber domus scolarium de Mertone ex dono Magistri Henrici Seuer sacre pagine professoris ac custodis eiusdem incathenatus in libraria ad communem usum ibidem studere uolencium anno Domini M. CCCC. lxviii’; ‘B lier .19us.’, in the usual hand (see MS 60). For Sever, warden 1456-71, see MS 6.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:3d4fbddd-7976-408a-b31e-9dd00b9ae3bb">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f01d9f51-ff64-4b4b-a6aa-cd1a0842420a">
             <crm:P82b_end_of_the_end xml:lang="en">1468-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1468-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -39018,7 +39018,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2283_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7b67448e-4bfc-438e-9797-63fdaed55e7f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e71a9c1c-7619-4077-8856-2825323c4214">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -39032,7 +39032,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2283_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:e13337da-82fb-470f-a27b-d37122067db5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7cb5e57b-9222-459d-92c1-f7da9a272c22">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -39436,7 +39436,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1083/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:e67cee68-bb15-4d61-9807-2e6d6be80467">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:36124c9a-7080-4d7c-8a01-43f3e48cd73d">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/aut"/>
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/scr"/>
             <crm:P02_has_range>
@@ -39639,7 +39639,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3837_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1a05990b-5fd0-4450-b0aa-6000ae2ad3f4">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bacdc6a8-c3c0-4e50-9024-faf613ea7533">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -39714,7 +39714,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3837_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c4b42aa6-5ef7-43a2-916f-36419f6d5221">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e511ecae-72eb-4629-b578-f0d23bfceb14">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -39831,7 +39831,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4423_prov8">
         <crm:P3_has_note xml:lang="en">Kenelm Digby; bequeathed to him by Allen in 1632.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2b4527d8-506b-4618-8bd9-6e4f6019b6c1">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e924b860-f9a0-4d7b-8c39-5add79a87d7e">
             <crm:P82b_end_of_the_end xml:lang="en">1632-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1632-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -40155,7 +40155,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3354_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2c604291-5186-42cf-ad31-810c904fce41">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1982449b-6636-4902-adf2-a2b968801fc7">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -40169,7 +40169,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3354_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:30aea0c4-c184-4016-b578-9464a0f5470a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bbf2262c-17eb-4bc4-af19-7fc2da24e377">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -40280,7 +40280,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3485_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c0ef78c1-c314-4885-a8c7-74a462546bc8">
+          <crm:E52_Time-Span rdf:about="urn:uuid:b4d5eb5a-51d6-4bd9-99c0-36bc49f9a6a1">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -40292,7 +40292,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3485_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:73a60654-e4eb-4fd8-8fd0-c6f091da3e72">
+          <crm:E52_Time-Span rdf:about="urn:uuid:e26c882c-88ae-49ee-8471-09af3f782e4f">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -40506,7 +40506,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2773_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:f55c6dd6-1253-4567-8db2-68b4c1e5a01f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:75987956-90d9-49c7-9caa-f6c24ab71719">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -40551,7 +40551,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2773_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:b562a8f8-9237-4f4c-bf6f-0fad8a9fa751">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3d9926b0-5301-4c10-b25c-38b65c63a8cf">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -40774,7 +40774,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10308_prov1">
         <crm:P3_has_note xml:lang="en">Similar to MS 287. On f. iii is a thoroughly-erased 1-line inscription. On f. iiiv ‘Librum iste dedit ad communem utilitatem omnium in hac sacra bibliotheca studentium Ricardus Fitz James sacre theologie minimus professor et nuper custos istius collegii de Mertone. Cuius anime propicietur Deus amen. Et continet communem glosam super duodecim prophetas minores.’ At the foot of f. 97v ‘Liber Magistri Ricardi Fitz James sacre theologie professoris / emptus per eundem ultimo die Ianuarii anno Christi 1481 / prec’ vi s. viii d.’ Fitzjames, warden 1483-1507, for whom see MS 9, gave it to the College in 1494. It was placed in the library on 2 Aug. (Registrum, p. 184).</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:be3a81fe-1342-4d14-a91e-acffb608ba09">
+          <crm:E52_Time-Span rdf:about="urn:uuid:61921afd-7f13-4cf2-96da-eb439ea80744">
             <crm:P82b_end_of_the_end xml:lang="en">1494-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1494-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -41593,7 +41593,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2643_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:94a30640-faaf-49b2-aae0-46bdf38c7b94">
+          <crm:E52_Time-Span rdf:about="urn:uuid:6fed3c52-6082-4e8b-982e-17b70a2a9cba">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -41619,7 +41619,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2643_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:bacb8ccc-8f05-4724-8ead-dffa77a00a68">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1b9f9577-dab2-44e6-bc68-ddd8d652f38c">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -41678,7 +41678,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2776_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2365d483-22c9-4978-a51f-09bf1d65d64c">
+          <crm:E52_Time-Span rdf:about="urn:uuid:fafc5f56-d343-425b-8ce4-375969601db0">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -41696,7 +41696,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2776_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c3b1ab68-30d7-4ad0-a7bc-2c3494cc774d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:9c03049f-a85a-41df-bdf4-1b91408fd751">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -41825,7 +41825,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1932_prov2">
         <crm:P3_has_note xml:lang="en">Thomas Kerry, clerk of the Privy Seal.</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:d7e22a0c-500c-4a59-8b5b-5e423d860939">
+          <crm:E52_Time-Span rdf:about="urn:uuid:ea1780bf-0eb8-40ea-9345-08618243f515">
             <crm:P82b_end_of_the_end xml:lang="en">1604-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1533-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42187,7 +42187,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2294_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:137c35cb-d2a7-4f54-ad09-39221bed2b43">
+          <crm:E52_Time-Span rdf:about="urn:uuid:9b1e8b98-8e14-412a-b9fc-6109ef222b25">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42199,7 +42199,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2294_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:dff2719e-a6ac-4779-966e-43e72ab99ff5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5b8f0af8-d1a6-492c-a239-97f981d46810">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42411,7 +42411,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2257_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:fc040016-d576-45da-9b9f-7b030eb74561">
+          <crm:E52_Time-Span rdf:about="urn:uuid:3c4ade09-4818-4bb4-b406-c4f17d496aa9">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42455,7 +42455,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2257_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:59546675-927c-44a8-b37d-73e52622da2b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:6140ed8d-d781-41ba-88ac-b5e183dd30a7">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42484,7 +42484,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3588_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:8e8eb289-bb40-4e34-a353-f3eb5efb22c7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:59bf04a0-9ddf-4a36-980d-c3ac43a1f365">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42534,7 +42534,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3588_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:cdd7a84b-ccb6-45ce-bb65-fbbf4a9de0e2">
+          <crm:E52_Time-Span rdf:about="urn:uuid:faffc5f7-4807-439a-a26f-89cc8c42e561">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42685,7 +42685,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2123_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2284aedc-fc09-4d75-aef2-f4e2fd57b50a">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5de3ed1e-fa2f-4295-b329-b9d31e5acccb">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42698,7 +42698,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2123_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:9c8e09a4-d612-4c8c-86d9-89e20d3e84e7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:55572fa1-099b-416a-be0f-aa10c9744141">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42771,7 +42771,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3320_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:c4df19c5-bfe9-4cd3-8197-a4fad623f9ea">
+          <crm:E52_Time-Span rdf:about="urn:uuid:38abcb90-a24b-4b1b-abc5-cb4926121b40">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42810,7 +42810,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3320_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:332090e8-3bdd-43e8-bbb5-974342e5bd27">
+          <crm:E52_Time-Span rdf:about="urn:uuid:bfef0840-fcd8-481f-8aea-190fd4549783">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -42872,7 +42872,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2121/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:cfd1aa5b-1289-4af9-9362-afd3c532c545">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:32201a93-1567-412f-baa7-345234d989ef">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_58996889">
@@ -42916,7 +42916,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2121_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1777b291-fa3c-4835-943f-847472322ecd">
+          <crm:E52_Time-Span rdf:about="urn:uuid:f5600095-ce66-4473-9c6e-a31363eb2d16">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -42928,7 +42928,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2121_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:1bd83a84-f70e-4054-bbdb-c28b05a5a93d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:7854243a-8562-40e5-bce9-5de5f0625d0c">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -43093,7 +43093,7 @@
         <crm:P108i_was_produced_by>
           <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2870#MS_Canon_Liturg_17-part1-production">
             <crm:P01i_is_domain_of>
-              <crm:PC14_carried_out_by rdf:about="urn:uuid:edf23074-3530-4227-9bcb-1e5b6b97456d">
+              <crm:PC14_carried_out_by rdf:about="urn:uuid:0c2fcc0a-c383-45c7-a130-377ca4ff9202">
                 <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/art"/>
                 <crm:P02_has_range>
                   <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_824">
@@ -43182,7 +43182,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4527_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7629edad-30a2-4191-a423-20206c63a2b9">
+          <crm:E52_Time-Span rdf:about="urn:uuid:dc872a0c-dd42-489c-86a5-2f19b5d6ea26">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -43403,20 +43403,6 @@
     </crm:P46_is_composed_of>
     <rdfs:label xml:lang="en">MS. Auct. F. 5. 28</rdfs:label>
   </crm:E24_Physical_Man-Made_Thing>
-  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:f368c382-be36-48b0-ba78-4c1a8681651c">
-    <frbr:R3i_realises>
-      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_11934">
-        <rdfs:label>Fragments of manuscripts from Selden printed books.</rdfs:label>
-      </frbr:F1_Work>
-    </frbr:R3i_realises>
-  </frbr:F22_Self-Contained_Expression>
-  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:391d0909-63ba-4955-8690-102ac5f5b970">
-    <frbr:R3i_realises>
-      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_227">
-        <rdfs:label>Defensorium sanctae Birgittae</rdfs:label>
-      </frbr:F1_Work>
-    </frbr:R3i_realises>
-  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5984">
     <crm:P46i_forms_part_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/collections/MSS.%20Hamilton"/>
     <frbr:R42_is_representative_manifestation_singleton_for>
@@ -44153,7 +44139,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:5582c79d-30b7-45d2-87a1-090f1250cff5">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:e3fbce9a-3a82-4218-a6f9-1ff7c31db493">
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6445#MS_Lat_liturg_a_8-part2-transfer-of-custody-time-span">
                 <crm:P82b_end_of_the_end xml:lang="en">1917-12-31T23:59:59</crm:P82b_end_of_the_end>
@@ -44557,7 +44543,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:3e106c19-a33b-440e-af18-116d26d9cd29">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:5cd63c4e-4e27-4da8-a499-ccedef78065c">
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6445#MS_Lat_liturg_a_8-part21-transfer-of-custody-time-span">
                 <crm:P82b_end_of_the_end xml:lang="en">1975-12-31T23:59:59</crm:P82b_end_of_the_end>
@@ -44603,7 +44589,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:d1357540-416f-410e-acc8-f6fdc6384e28">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:b2fdc3b8-36f7-4679-8114-3eb4ff0ee0d4">
             <crm:P28_custody_surrendered_by>
               <frbr:F10_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_868">
                 <rdfs:label>Miss C.M. Cresswell</rdfs:label>
@@ -44754,7 +44740,7 @@
         </crm:P43_has_dimension>
         <crm:P45_consists_of rdf:resource="http://vocab.getty.edu/aat/300011851"/>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:00a69b60-00d3-4344-a199-8334f5b87cf7">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:00dea78d-c66d-40cb-ac64-c41a72fd7972">
             <crm:P28_custody_surrendered_by>
               <frbr:F10_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_186">
                 <rdfs:label>C. H. Rose</rdfs:label>
@@ -44817,7 +44803,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:25d76b3c-d283-4d69-8fd9-7809e307111d">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:3adf152d-6f4c-42f6-9036-cdc35fe2cfa3">
             <crm:P28_custody_surrendered_by rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_100180276"/>
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6445#MS_Lat_liturg_a_8-part22-transfer-of-custody-time-span">
@@ -45241,7 +45227,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2394_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:2b68e4b7-32bb-4528-95c0-bcf41d73105d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c7f2f330-0e43-45fd-9814-7ad3e8d6f532">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -45266,7 +45252,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2394_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a19bc717-91d4-4821-8f34-33053e96ec30">
+          <crm:E52_Time-Span rdf:about="urn:uuid:501b0b3f-aea2-4119-ae4a-0b26e957e44f">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -45306,6 +45292,13 @@
       </frbr:F13_Identifier>
     </crm:P48_has_preferred_identifier>
   </frbr:F4_Manifestation_Singleton>
+  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:9c8851bd-f393-48db-bdea-062f27dbeba9">
+    <frbr:R3i_realises>
+      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_13572">
+        <rdfs:label>Office of St Bridget</rdfs:label>
+      </frbr:F1_Work>
+    </frbr:R3i_realises>
+  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6570">
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6570/production">
@@ -45343,7 +45336,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:f2eba7ff-d5f1-4639-9521-0fa69423fbe8">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:079b5a56-00ae-45e4-b587-da6e1e62613d">
             <crm:P28_custody_surrendered_by>
               <frbr:F10_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_6223147">
                 <rdfs:label>John C. Dickinson</rdfs:label>
@@ -45390,7 +45383,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:827e3f64-8a13-481f-a77a-778e145820be">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:f8901997-18a3-4084-bab0-73608c6eece7">
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6570#MS_Lat_misc_b_23-part4-transfer-of-custody-time-span">
                 <crm:P82b_end_of_the_end xml:lang="en">1985-12-31T23:59:59</crm:P82b_end_of_the_end>
@@ -45431,7 +45424,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:9234ee68-a8e4-44bc-8d86-22c183eb0e04">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:08cf1d22-4910-4727-9d2c-b14b9ae401b7">
             <crm:P28_custody_surrendered_by rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_6223147"/>
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6570#MS_Lat_misc_b_23-part3-transfer-of-custody-time-span">
@@ -45478,7 +45471,7 @@
           <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6570_prov2">
             <crm:P3_has_note xml:lang="en">Reused as a wrapper, perhaps as a third use, for ‘arms of the Johnsons of Clipsom in Ruttland’ according to a genealogical note signed by Jane Johnson , 1756.</crm:P3_has_note>
             <crm:P4_has_time-span>
-              <crm:E52_Time-Span rdf:about="urn:uuid:6c7c04cd-5268-495f-8b5d-926b7d7d3508">
+              <crm:E52_Time-Span rdf:about="urn:uuid:2e0afd17-5263-454f-80b7-ec03e6ee522f">
                 <crm:P82b_end_of_the_end xml:lang="en">1756-12-31T23:59:59</crm:P82b_end_of_the_end>
                 <crm:P82a_begin_of_the_begin xml:lang="en">1756-01-01T00:00:00</crm:P82a_begin_of_the_begin>
               </crm:E52_Time-Span>
@@ -45513,7 +45506,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:1ba616cb-6ff5-414b-9e73-38597e20e9da">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:06565af4-398c-49e8-aa5b-e8aeae39e0da">
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6570#MS_Lat_misc_b_23-part5-transfer-of-custody-time-span">
                 <crm:P82b_end_of_the_end xml:lang="en">1996-12-31T23:59:59</crm:P82b_end_of_the_end>
@@ -45560,7 +45553,7 @@
           </crm:E12_Production>
         </crm:P108i_was_produced_by>
         <crm:P30i_custody_transferred_through>
-          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:b55f3449-2275-4b35-8549-a1d49e87e197">
+          <crm:E10_Transfer_of_Custody rdf:about="urn:uuid:56deeed0-c60b-471e-a393-6b695f385c82">
             <crm:P28_custody_surrendered_by rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/person_6223147"/>
             <crm:P4_has_time-span>
               <crm:E52_Time-Span rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/https%3A//medieval.bodleian.ox.ac.uk/catalog/manuscript_6570#MS_Lat_misc_b_23-part1-transfer-of-custody-time-span">
@@ -45633,7 +45626,7 @@
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3946/production">
         <crm:P01i_is_domain_of>
-          <crm:PC14_carried_out_by rdf:about="urn:uuid:4c760754-bf41-4061-8742-494500b329a3">
+          <crm:PC14_carried_out_by rdf:about="urn:uuid:560bc631-caf4-4f0d-b4bd-e99f4e0aaf1c">
             <crm:P14.1_in_the_role_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/roles/bnd"/>
             <crm:P02_has_range>
               <crm:E21_Person rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/person_2624">
@@ -45816,7 +45809,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3202_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:451db515-b39d-46c3-88c9-54928a48008d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:1ae5b4f1-90b6-4870-8992-865740d836ef">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -45831,7 +45824,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3202_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:50ba9679-4d52-4358-b90e-d7a3fe7de7f5">
+          <crm:E52_Time-Span rdf:about="urn:uuid:6718effd-a15e-4e9e-a582-c1d9c7524c23">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -46292,7 +46285,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3332_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:3642700f-1fcf-4919-9f5c-0345ba1ae295">
+          <crm:E52_Time-Span rdf:about="urn:uuid:c4420523-7586-4268-9656-5e6d37c88078">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -46413,7 +46406,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3332_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:08e88d93-b54f-4643-953d-9500b20d833d">
+          <crm:E52_Time-Span rdf:about="urn:uuid:b0aee197-5fae-4a66-bae4-16d61cc0ef07">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -46607,7 +46600,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3209_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:5cbb8cbd-3fc9-4121-8a96-deefa8ec92c7">
+          <crm:E52_Time-Span rdf:about="urn:uuid:a8af2582-bc44-4185-9cd7-7622dbde6a6b">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -46657,7 +46650,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3209_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:17f0a77d-348b-41a6-b87e-a234be1fea3e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:aafc8d14-c967-464a-bcae-5cead54cfa0c">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47089,7 +47082,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4669_prov1">
         <crm:P3_has_note xml:lang="en">Francis Douce, 1757-1834</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:dac469d1-1677-40e3-a7d2-b22836caeb73">
+          <crm:E52_Time-Span rdf:about="urn:uuid:0e6d2f4c-a8d7-4630-b473-48727cb3c657">
             <crm:P82b_end_of_the_end xml:lang="en">1834-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1757-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47179,7 +47172,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4402_prov1">
         <crm:P3_has_note xml:lang="en">Kenelm Digby, 1603-1665</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:a00e1717-f556-4566-8712-91f8ad6d21c0">
+          <crm:E52_Time-Span rdf:about="urn:uuid:6eba70e0-2803-46f1-9a93-819aa567cfd2">
             <crm:P82b_end_of_the_end xml:lang="en">1634-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1603-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47209,6 +47202,13 @@
       </frbr:F13_Identifier>
     </crm:P48_has_preferred_identifier>
   </frbr:F4_Manifestation_Singleton>
+  <frbr:F22_Self-Contained_Expression rdf:about="urn:uuid:9259606f-94ad-4e70-89a6-d8aa06570bf1">
+    <frbr:R3i_realises>
+      <frbr:F1_Work rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/work_227">
+        <rdfs:label>Defensorium sanctae Birgittae</rdfs:label>
+      </frbr:F1_Work>
+    </frbr:R3i_realises>
+  </frbr:F22_Self-Contained_Expression>
   <crm:E24_Physical_Man-Made_Thing rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7785">
     <crm:P46i_forms_part_of rdf:resource="https://medieval.bodleian.ox.ac.uk/catalog/authority/collections/MSS.%20Lyell"/>
     <crm:P45_consists_of rdf:resource="http://vocab.getty.edu/aat/300011851"/>
@@ -47279,7 +47279,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7785_prov1">
         <crm:P3_has_note xml:lang="en">James P. R. Lyell, 1871-1948</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:71474da4-3733-405c-ae73-729447f030b1">
+          <crm:E52_Time-Span rdf:about="urn:uuid:5e64eb1b-3db5-4ab3-b83f-b8012444bc0c">
             <crm:P82b_end_of_the_end xml:lang="en">1948-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1871-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47859,7 +47859,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8987_prov1">
         <crm:P3_has_note xml:lang="en">Thomas Tanner, 1674-1735</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:05a4b3d4-f1ff-4b48-9406-699f4cd9f11e">
+          <crm:E52_Time-Span rdf:about="urn:uuid:42025317-99e3-4a67-8e20-40eb27be0368">
             <crm:P82b_end_of_the_end xml:lang="en">1735-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1674-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47929,7 +47929,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2621_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:ca40600e-fc83-4cf6-9659-f2cca5eeb93b">
+          <crm:E52_Time-Span rdf:about="urn:uuid:eb1f9760-0680-42f5-b556-f3c863ea0782">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
@@ -47948,7 +47948,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2621_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:982a9b32-00bb-4b99-b698-0ac57e87385f">
+          <crm:E52_Time-Span rdf:about="urn:uuid:046339e9-30a2-483e-8d55-91404cf922ec">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -48327,7 +48327,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3829_prov2">
         <crm:P3_has_note xml:lang="en">Giuseppe Canonici , -1807</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:7fdcd221-5bb3-4ca1-8a03-f1f2b7f714e2">
+          <crm:E52_Time-Span rdf:about="urn:uuid:03d5f4bd-6755-415d-a2aa-7c9192dc2890">
             <crm:P82b_end_of_the_end xml:lang="en">1807-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
@@ -48352,7 +48352,7 @@
       <crm:E5_Event rdf:about="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3829_prov1">
         <crm:P3_has_note xml:lang="en">Matteo Luigi Canonici, 1727-1805</crm:P3_has_note>
         <crm:P4_has_time-span>
-          <crm:E52_Time-Span rdf:about="urn:uuid:496c0112-43c0-4a29-976b-f703f10d3929">
+          <crm:E52_Time-Span rdf:about="urn:uuid:8acdb19b-3fd6-41b0-be33-97ea7dddc36a">
             <crm:P82b_end_of_the_end xml:lang="en">1805-12-31T23:59:59</crm:P82b_end_of_the_end>
             <crm:P82a_begin_of_the_begin xml:lang="en">1727-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
